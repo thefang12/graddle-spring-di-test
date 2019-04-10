@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.resolver:maven-resolver-transport-file:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-transport-file/1.1.1/e66a65f40f04f87d8a1aa54546938b1522e3b90e/maven-resolver-transport-file-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-transport-file/1.1.1/e744de69461b86c870c0f44e5187abd203ee7539/maven-resolver-transport-file-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

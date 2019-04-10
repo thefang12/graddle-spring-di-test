@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9813fe6e-0dfe-4586-9232-ea179a3678b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_activation_jakarta_activation_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_core_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_arc_arc_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_gizmo_gizmo_1_0_0_Alpha3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_arc_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_bootstrap_core_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_builder_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_core_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_core_deployment_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_jaxb_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_jsonp_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_jsonp_deployment_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_junit5_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_resteasy_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_resteasy_common_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_spring_di_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_test_common_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_quarkus_quarkus_undertow_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_rest_assured_json_path_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_rest_assured_rest_assured_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_rest_assured_rest_assured_common_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_rest_assured_xml_path_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_smallrye_smallrye_config_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_undertow_undertow_core_1_4_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_undertow_undertow_servlet_1_4_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_enterprise_cdi_api_2_0_SP1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_interceptor_javax_interceptor_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_artifact_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_builder_support_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_model_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_model_builder_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_repository_metadata_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_resolver_provider_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_settings_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_settings_builder_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_connector_basic_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_impl_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_spi_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_transport_file_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_transport_http_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_resolver_maven_resolver_util_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_groovy_groovy_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_groovy_groovy_json_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_groovy_groovy_xml_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_component_annotations_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_interpolation_1_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_utils_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_microprofile_config_microprofile_config_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_javax_json_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_graalvm_sdk_graal_sdk_1_0_0_rc14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_classfilewriter_jboss_classfilewriter_1_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_invocation_jboss_invocation_1_5_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_annotations_2_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logmanager_jboss_logmanager_embedded_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_resteasy_resteasy_core_4_0_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_resteasy_resteasy_core_spi_4_0_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_slf4j_slf4j_jboss_logging_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_spec_javax_servlet_jboss_servlet_api_3_1_spec_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_2_1_spec_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_spec_javax_xml_bind_jboss_jaxb_api_2_3_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_threads_jboss_threads_3_0_0_Alpha4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_xnio_xnio_api_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_xnio_xnio_nio_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_osgi_org_osgi_annotation_versioning_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_sonatype_plexus_plexus_sec_dispatcher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_common_wildfly_common_1_5_0_Final_format_001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_asn1_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_auth_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_auth_server_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_base_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_credential_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_permission_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_ssl_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_util_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_x500_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_x500_cert_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_wildfly_security_wildfly_elytron_x500_cert_util_2_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/org.acme.using-spring-di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/org.acme.using-spring-di.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/org.acme.using-spring-di.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/using-spring-di.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/using-spring-di.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/bootScripts/using-spring-di" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/bootScripts/using-spring-di.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/META-INF/application-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/native-image.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/AppConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/GreeterBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/GreeterResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/MessageProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/NoOpSingleStringFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/acme/spring/di/StringFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/acme/spring/di/GreeterResourceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/acme/spring/di/NativeGreeterResourceIT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/using-spring-di-boot.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/using-spring-di-boot.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/using-spring-di.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/using-spring-di.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/com.sun.activation.jakarta.activation-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/commons-codec.commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/commons-io.commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.arc.arc-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-arc-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-core-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-jaxb-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-resteasy-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-resteasy-common-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-spring-di-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.quarkus.quarkus-undertow-0.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.smallrye.smallrye-config-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.undertow.undertow-core-1.4.23.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/io.undertow.undertow-servlet-1.4.23.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.annotation.javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.el.javax.el-api-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.enterprise.cdi-api-2.0.SP1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.inject.javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.interceptor.javax.interceptor-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.validation.validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/javax.xml.bind.jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/net.jcip.jcip-annotations-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.apache.httpcomponents.httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.apache.httpcomponents.httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.eclipse.microprofile.config.microprofile-config-api-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.graalvm.sdk.graal-sdk-1.0.0-rc14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.logging.jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.logging.jboss-logging-annotations-2.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.logmanager.jboss-logmanager-embedded-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.resteasy.resteasy-core-4.0.0.CR2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.resteasy.resteasy-core-spi-4.0.0.CR2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.slf4j.slf4j-jboss-logging-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.spec.javax.servlet.jboss-servlet-api_3.1_spec-1.0.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.spec.javax.ws.rs.jboss-jaxrs-api_2.1_spec-1.0.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.spec.javax.xml.bind.jboss-jaxb-api_2.3_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.threads.jboss-threads-3.0.0.Alpha4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.xnio.xnio-api-3.7.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.jboss.xnio.xnio-nio-3.7.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.osgi.org.osgi.annotation.versioning-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.reactivestreams.reactive-streams-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.slf4j.slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-aop-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-asm-3.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-beans-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-context-3.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-core-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-expression-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.springframework.spring-jcl-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.common.wildfly-common-1.5.0.Final-format-001.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-asn1-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-auth-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-auth-server-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-base-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-credential-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-permission-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-ssl-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-util-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-x500-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-x500-cert-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/org.wildfly.security.wildfly-elytron-x500-cert-util-2.0.0.Alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/using-spring-di.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/META-INF/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/scripts/using-spring-di" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/scripts/using-spring-di.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/using-spring-di-runner.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/META-INF/build-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/META-INF/quarkus-default-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/META-INF/services/io.quarkus.arc.ComponentsProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/arc/ActivateRequestContextInterceptor_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/arc/runtime/LifecycleEventRunner_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/arc/runtimebean/RuntimeBeanProducers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/arc/setup/Default_ComponentsProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/ArcAnnotationProcessor$build4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/ConfigBuildStep$validateConfigProperties5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/LifecycleEventsBuildStep$startupEvent10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/LoggingResourceProcessor$setupLoggingRuntimeInit3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/LoggingResourceProcessor$setupLoggingStaticInit1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/ResteasyScanningProcessor$setupInjection7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/RuntimeBeanProcessor$build2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/UndertowArcIntegrationBuildStep$integrateRequestContext6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/UndertowBuildStep$boot9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/deployment/steps/UndertowBuildStep$build8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runner/ApplicationImpl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runner/AutoFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runner/GeneratedMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runtime/generated/BuildTimeConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runtime/generated/BuildTimeConfigRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runtime/generated/RunTimeConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runtime/generated/RunTimeConfigRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/quarkus/runtime/generated/RunTimeDefaultConfigSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/smallrye/config/inject/ConfigProducer_Bean$$function$$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/smallrye/config/inject/ConfigProducer_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/smallrye/config/inject/ConfigProducer_ClientProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/io/smallrye/config/inject/ConfigProducer_ProducerMethod_produceStringConfigProperty_75511873be6a3e578c4555b07b03c7231f99c7bc_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/javax/enterprise/context/control/ActivateRequestContext_Shared_AnnotationLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/javax/inject/Named_Shared_AnnotationLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/AppConfiguration_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/AppConfiguration_ProducerMethod_capitalizer_1a4f07acbed6d00d14480f85dd9fe31168ae109e_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/GreeterBean_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/GreeterResource_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/MessageProducer_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/acme/spring/di/NoOpSingleStringFunction_Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/eclipse/microprofile/config/inject/ConfigProperty_Shared_AnnotationLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wiring-classes/org/springframework/beans/factory/annotation/Value_Shared_AnnotationLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/docker/Dockerfile.jvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/docker/Dockerfile.native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/GreeterBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/GreeterResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/NoOpSingleStringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/acme/spring/di/StringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/acme/spring/di/GreeterResourceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/acme/spring/di/NativeGreeterResourceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using-spring-di.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="using-spring-di" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="quarkus" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.13.0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0.12.0</replace>
+      <replace>0.13.1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="using-spring-di" type="b2602c69:ProjectViewProjectNode" />
+              <item name="using-spring-di" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554910211724" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.using-spring-di [quarkusDev]">
+    <configuration name="using-spring-di [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="using-spring-di [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="using-spring-di [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="using-spring-di [quarkusDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="quarkusDev" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="using-spring-di [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.using-spring-di [run]" />
+        <item itemvalue="Gradle.using-spring-di [bootRun]" />
+        <item itemvalue="Gradle.using-spring-di [quarkusDev]" />
+        <item itemvalue="Gradle.using-spring-di [build]" />
+        <item itemvalue="Gradle.using-spring-di [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9813fe6e-0dfe-4586-9232-ea179a3678b4" name="Default Changelist" comment="" />
+      <created>1554843121523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554843121523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41586795" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30569947" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" weight="0.5882353" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

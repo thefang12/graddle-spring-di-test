@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-interpolation:1.24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-interpolation/1.24/ff3f217127fbd6846bba831ab156e227db2cf347/plexus-interpolation-1.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-interpolation/1.24/68c7adeee12d3b9985695a46f6b92df280c809a5/plexus-interpolation-1.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

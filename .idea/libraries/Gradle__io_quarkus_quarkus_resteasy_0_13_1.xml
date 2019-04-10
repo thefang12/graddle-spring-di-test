@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.quarkus:quarkus-resteasy:0.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus/quarkus-resteasy/0.13.1/8b16b182d84ba46a9f48d9e295a07ed0976bec9d/quarkus-resteasy-0.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus/quarkus-resteasy/0.13.1/3abf8cd03a7cb088852a42b653633af73135ed2e/quarkus-resteasy-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

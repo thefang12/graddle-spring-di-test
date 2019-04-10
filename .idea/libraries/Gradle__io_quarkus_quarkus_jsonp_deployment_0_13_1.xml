@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.quarkus:quarkus-jsonp-deployment:0.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus/quarkus-jsonp-deployment/0.13.1/3435de5e201c170c718b57591d38937e5b9bd533/quarkus-jsonp-deployment-0.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus/quarkus-jsonp-deployment/0.13.1/df827da51123923fe0ce19d53e99405fae1f47c/quarkus-jsonp-deployment-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
